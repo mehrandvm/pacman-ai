@@ -1,0 +1,1 @@
+py -2 pacman.py -l myMaze -p SearchAgent -a fn=bfs,prob=FoodSearchProblem
